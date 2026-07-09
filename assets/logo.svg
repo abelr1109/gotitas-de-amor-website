@@ -1,0 +1,10 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gotitas de Amor Daycare Logo</title>
+  <desc id="desc">A warm heart and water drop logo for Gotitas de Amor.</desc>
+  <circle cx="90" cy="90" r="82" fill="#FFF8EA"/>
+  <circle cx="90" cy="90" r="74" fill="#F6C96D" opacity="0.45"/>
+  <path d="M90 27C90 27 52 69 52 102C52 126 68 145 90 145C112 145 128 126 128 102C128 69 90 27 90 27Z" fill="#8ECAE6"/>
+  <path d="M91 121C82 111 62 99 62 80C62 68 72 59 84 59C91 59 96 63 100 68C104 63 110 59 117 59C129 59 139 68 139 80C139 101 116 113 100 129L91 121Z" fill="#F58F7C"/>
+  <circle cx="68" cy="54" r="10" fill="#88BFA3"/>
+  <circle cx="127" cy="122" r="8" fill="#88BFA3"/>
+</svg>
